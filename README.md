@@ -1,6 +1,8 @@
-![Grace González](assets/img/me_1.jpg)
+<p align="center">
+  <img src="assets/img/grace_gonzalez.jpg" width="200">
+</p>
 
-# Grace González
+# Risk Analytics Professional
 
 ### Educación
 Economista, Pontificia Universidad Javerianna
