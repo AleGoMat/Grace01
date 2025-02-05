@@ -4,8 +4,9 @@
 Economista, Pontificia Universidad Javerianna
 Magister Inteligencia Analítica de Datos, Universidad de los Andes
 
-#### Education Continúa
+### Education Continua
 DS4A (Data Science for All) / Colombia 3.0, Correlation One
+Google Advanced Analytics Certificate
 
 ### Work Experience
 - **Sr. Consultant** - TransUnion (Credit Bureau)  
