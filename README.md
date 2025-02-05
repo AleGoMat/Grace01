@@ -1,7 +1,11 @@
-# Risk Analytics Professional
+# Grace González
 
-### Education
-Economist, Master's in Analytics
+### Educación
+Economista, Pontificia Universidad Javerianna
+Magister Inteligencia Analítica de Datos, Universidad de los Andes
+
+#### Education Continúa
+DS4A (Data Science for All) / Colombia 3.0, Correlation One
 
 ### Work Experience
 - **Sr. Consultant** - TransUnion (Credit Bureau)  
