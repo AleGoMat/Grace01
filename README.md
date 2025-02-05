@@ -1,3 +1,5 @@
+![Grace González](assets/img/me_1.jpg)
+
 # Grace González
 
 ### Educación
