@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/me_1.jpg" width="200">
+  <img src="assets/img/me_2.jpg" width="200">
 </p>
 
 # Risk Analytics Professional
