@@ -39,13 +39,13 @@ Mediante análisis de regresión y probando diferentes técnicas (Regresión lí
 
 <table>
   <tr>
-    <td align="center">
-      <img src="assets/img/NGO.png" width="200">
+    <td>
+      <img src="assets/img/NGO.png" width="300">
       <br>
       <b><a href="https://www.datacamp.com/datalab/w/cb8551ea-25bd-4088-98ac-aa1a9e15b95a/edit">Impact Analysis of GoodThought NGO Initiatives</a></b>
     </td>
-    <td align="center">
-      <img src="assets/img/otro_proyecto.png" width="200">
+    <td>
+      <img src="assets/img/otro_proyecto.png" width="300">
       <br>
       <b><a href="#">Otro Proyecto</a></b>
     </td>
