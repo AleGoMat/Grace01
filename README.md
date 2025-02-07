@@ -27,6 +27,6 @@ Por otro lado, los prestadores, en algunos casos, tampoco tienen visibilidad de 
 
 Mediante análisis de regresión y probando diferentes técnicas (Regresión líneal y XGBoost Regressor), predecimos estos costos para cada paciente. Esto proporciona un estimado bastante preciso tanto para pacientes como para prestadores sobre los costos totales anuales y mensuales. El resultado se traduce en una mejor planificación financiera por parte de los pacientes y una mayor personalización en la toma de decisiones por parte de los prestadores de salud.  
 
-![NGO Analysis](assets/img/insurance.png)
+![NGO Analysis](assets/img/NGO.png)
 
 #### [Project: Impact Analysis of GoodThought NGO Initiatives](https://www.datacamp.com/datalab/w/cb8551ea-25bd-4088-98ac-aa1a9e15b95a/edit)
