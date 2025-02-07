@@ -1,0 +1,14 @@
+.header {
+    padding: 10px 0; /* Reduce el espacio arriba y abajo */
+    min-height: 50px; /* Ajusta la altura mínima */
+}
+
+.site-title {
+    font-size: 1.8em; /* Reduce el tamaño del título */
+    margin-bottom: 5px; /* Menos espacio debajo del título */
+}
+
+.site-description {
+    font-size: 1em; /* Reduce el tamaño de la descripción */
+    margin-bottom: 5px; /* Menos espacio debajo de la descripción */
+}
