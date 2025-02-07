@@ -31,11 +31,24 @@ En este proyecto buscamos predecir los cargos anuales de la cobertura en salud. 
 Por otro lado, los prestadores, en algunos casos, tampoco tienen visibilidad de cuáles podrían ser los costos totales para un paciente, lo que dificulta un equilibrio personalizado entre medicina preventiva y curativa.  
 <p align="justify">
 Mediante análisis de regresión y probando diferentes técnicas (Regresión líneal y XGBoost Regressor), predecimos estos costos para cada paciente. Esto proporciona un estimado bastante preciso tanto para pacientes como para prestadores sobre los costos totales anuales y mensuales. El resultado se traduce en una mejor planificación financiera por parte de los pacientes y una mayor personalización en la toma de decisiones por parte de los prestadores de salud.  
+</p>
+
 <br>
 
 **SQL Projects (Quick but powerful queries on Postgres)**
 
-| ![NGO Analysis](assets/img/NGO.png) | ![Otro Proyecto](assets/img/otro_proyecto.png) |
-|------------------------------------|-------------------------------------|
-| **[Impact Analysis of GoodThought NGO Initiatives](https://www.datacamp.com/datalab/w/cb8551ea-25bd-4088-98ac-aa1a9e15b95a/edit)** | **[Otro Proyecto](#)** |
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/img/NGO.png" width="200">
+      <br>
+      <b><a href="https://www.datacamp.com/datalab/w/cb8551ea-25bd-4088-98ac-aa1a9e15b95a/edit">Impact Analysis of GoodThought NGO Initiatives</a></b>
+    </td>
+    <td align="center">
+      <img src="assets/img/otro_proyecto.png" width="200">
+      <br>
+      <b><a href="#">Otro Proyecto</a></b>
+    </td>
+  </tr>
+</table>
 
