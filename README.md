@@ -1,3 +1,19 @@
+# 🚀 Mi Portafolio
+
+[🏠 About Me](#about-me) | [📂 Projects](projects.md) | [📄 CV / Resume](cv.md)
+
+---
+
+## About Me
+¡Hola! Soy [Tu Nombre] y me especializo en Data Science, Machine Learning y estrategias de riesgo de crédito. Aquí puedes explorar mis proyectos y mi experiencia profesional.  
+
+## 📂 Projects
+🔹 [Proyecto 1](https://github.com/tuusuario/proyecto1)  
+🔹 [Proyecto 2](https://github.com/tuusuario/proyecto2)  
+
+## 📄 CV / Resume
+📌 [Descargar mi CV en PDF](https://tu-enlace-a-cv.com)  
+
 # Risk Analytics Professional
 
 ### Educación
