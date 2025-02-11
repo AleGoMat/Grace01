@@ -46,7 +46,7 @@
 
 <div id="cv" style="display: none;">
   <h2>📄 CV / Resume</h2>
-  <p>📌 <a href="https://tu-enlace-a-cv.com">Descargar mi CV en PDF</a></p>
+  <p>📌 <a [Descargar mi CV en PDF](assets/Grace_González_Resume_ESP.pdf)</a></p>
 </div>
 
 <script>
