@@ -2,6 +2,8 @@
 layout: default
 title: "CV / Resume"
 ---
+[🏠 About Me](index.md) | [📂 Projects](projects.md) | [📄 CV / Resume](cv.md)
+---
 
 # 📄 CV / Resume  
 
