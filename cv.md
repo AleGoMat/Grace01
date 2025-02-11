@@ -4,6 +4,14 @@ title: "CV / Resume"
 ---
 
 # 📄 CV / Resume  
-Aquí puedes incluir un enlace a tu CV en PDF o un resumen profesional.
 
-📌 [Descargar mi CV en PDF](https://tu-enlace-a-cv.com) 
+<p align="center">
+    <strong>📌 <a href="assets/mi_cv.pdf" download>Descargar mi CV en PDF</a></strong>
+</p>
+
+## 📌 Preview del CV  
+Si prefieres verlo directamente, aquí tienes un preview:  
+
+<iframe src="assets/Grace_González_Resume_ESP.pdf" width="100%" height="600px"></iframe>
+
+---
