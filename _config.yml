@@ -3,3 +3,12 @@ description: Data Analytics Portfolio
 theme: jekyll-theme-minimal
 logo: assets/img/me_round.jpg
 logo_width: 150px
+
+# Agregar pestañas en la parte superior
+navigation:
+  - title: "About Me"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "CV/Resume"
+    url: "/cv"
