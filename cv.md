@@ -6,7 +6,7 @@ title: "CV / Resume"
 # 📄 CV / Resume  
 
 <p align="center">
-    <strong>📌 <a href="assets/mi_cv.pdf" download>Descargar mi CV en PDF</a></strong>
+    <strong>📌 <a href="assets/Grace_Gonzalez_Resume_ESP.pdf" download>Descargar mi CV en PDF</a></strong>
 </p>
 
 ## 📌 Preview del CV  
