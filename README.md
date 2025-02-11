@@ -48,7 +48,7 @@
   <h2>📄 CV / Resume</h2>
 
   <p align="center">
-      <strong>📌 <a href="assets/Grace_González_Resume_ESP.pdf" download>Descargar mi CV en PDF</a></strong>
+      <strong>📌 <a href="assets/Grace_Gonzalez_Resume_ESP.pdf" download>Descargar mi CV en PDF</a></strong>
   </p>
 
   <p>📌 <a href="cv.md">Ver CV en línea</a></p>
