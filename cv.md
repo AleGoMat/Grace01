@@ -12,7 +12,8 @@ title: "CV / Resume"
 ## 📌 Preview del CV  
 Si prefieres verlo directamente, aquí tienes un preview:  
 
-<iframe src="https://drive.google.com/file/d/1JQPkpukO1nwrSmNJ9Dl70ccDAZKjbzbX/preview" width="100%" height="600px"></iframe>
-
+<div>
+  <iframe src="https://drive.google.com/file/d/1JQPkpukO1nwrSmNJ9Dl70ccDAZKjbzbX/preview" width="100%" height="600px"></iframe>
+</div>
 
 ---
