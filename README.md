@@ -1,4 +1,6 @@
-![Mi Foto](assets/img/me_2.JPG)
+<div style="text-align: left;">
+  <img src="assets/img/me_2.JPG" width="200">
+</div>
 
 # Risk Analytics Professional
 
