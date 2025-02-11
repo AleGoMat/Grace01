@@ -1,4 +1,5 @@
 title: Grace González
 description: Data Analytics Portfolio
 theme: jekyll-theme-minimal
-logo: assets/img/me_round.JPG
+logo: assets/img/me_round.jpg
+logo_width: 150px
