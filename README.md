@@ -46,8 +46,14 @@
 
 <div id="cv" style="display: none;">
   <h2>📄 CV / Resume</h2>
-  <p>📌 <a [Descargar mi CV en PDF](assets/Grace_González_Resume_ESP.pdf)</a></p>
+
+  <p align="center">
+      <strong>📌 <a href="assets/Grace_González_Resume_ESP.pdf" download>Descargar mi CV en PDF</a></strong>
+  </p>
+
+  <p>📌 <a href="cv.md">Ver CV en línea</a></p>
 </div>
+
 
 <script>
   // Captura los clics en los enlaces y muestra la sección correspondiente
