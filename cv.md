@@ -10,10 +10,9 @@ title: "CV / Resume"
 </p>
 
 ## 📌 Preview del CV  
-Si prefieres verlo directamente, aquí tienes un preview:  
+Si prefieres verlo directamente, haz clic en la imagen de abajo:  
 
-<div>
-  <iframe src="https://drive.google.com/file/d/1JQPkpukO1nwrSmNJ9Dl70ccDAZKjbzbX/preview" width="100%" height="600px"></iframe>
-</div>
+[![Visualizar CV](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/200px-PDF_file_icon.svg.png)](https://drive.google.com/file/d/1JQPkpukO1nwrSmNJ9Dl70ccDAZKjbzbX/view)
+
 
 ---
