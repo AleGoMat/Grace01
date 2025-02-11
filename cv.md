@@ -12,6 +12,7 @@ title: "CV / Resume"
 ## 📌 Preview del CV  
 Si prefieres verlo directamente, aquí tienes un preview:  
 
-<iframe src="assets/Grace_Gonzalez_Resume_ESP.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://raw.githubusercontent.com/TU-USUARIO/TU-REPO/main/assets/Grace_Gonzalez_Resume_ESP.pdf" width="100%" height="600px"></iframe>
+
 
 ---
