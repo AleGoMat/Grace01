@@ -1,6 +1,6 @@
 # 🚀 Mi Portafolio
 
-[🏠 About Me](#about-me) | [📂 Projects](#projects) | [📄 CV / Resume](#cv)
+[🏠 About Me](index.md) | [📂 Projects](projects.md) | [📄 CV / Resume](cv.md)
 
 ---
 
