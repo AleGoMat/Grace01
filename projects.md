@@ -31,9 +31,9 @@ title: "Projects"
 - ✅ Optimización en la toma de decisiones para los prestadores de salud.
 
 ---
-## 🔹 [Project: Google Analytics Capstone- Predicting Employee Attrition]([https://www.datacamp.com/datalab/w/9b26cc20-77c8-42ad-82cc-5e529f813880/edit)](https://github.com/AleGoMat/Google_Analytics)
+## 🔹 [Project: Google Analytics Capstone- Predicting Employee Attrition](https://github.com/AleGoMat/Google_Analytics)
 
 <p align="center">
-    <img src="assets/img/insurance.png" width="60%">
+    <img src="assets/img/churn.png" width="60%">
 </p>
 
