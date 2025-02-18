@@ -12,9 +12,11 @@ title: "About Me"
 ¡Hola Mundo! Soy Grace, economista y profesional de analytics aplicado a riesgo de crédito para banca retail. Terminé mi Maestría en Inteligencia Analítica de Datos en Octubre de 2024, que me sirvió para darme cuenta de todo lo que me faltaba por aprender, a trabajar en equipo de verdad y a comprometerme con el aprendizaje continuo. Soy una apasionada de la aplicación del análisis de datos y métodos cuantitativos a mi tema preferido, el riesgo de crédito, que ha sido mi trabajo durante casi 7 años, y he tenido la oportunidad de abordarlo desde la banca, desde Fintech y desde el buró de crédito. 
 
 📌 En este portafolio puedes encontrar:  
-- 📂 **[Mis Proyectos](projects.md)** → Análisis exploratorio de datos y construcción de Modelos de machine learning, incluyendo deployment en Streamlit Cloud.
-Todos los días trabajo en la mejora continúa de estos proyectos y en añadir más al portafolio :)
+- 📂 **[Mis Proyectos](projects.md)** → Análisis exploratorio de datos y construcción de modelos de Machine Learning (deployment en Streamlit Cloud).
+---
+Todos los días trabajo en la mejora de estos proyectos y en añadir más al portafolio :)
 
+---
 - 📄 **[Mi CV](cv.md)** → Experiencia, formación y habilidades.  
 
 ---
