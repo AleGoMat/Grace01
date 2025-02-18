@@ -23,6 +23,7 @@ Análisis exploratorio de datos y construcción de modelos de Machine Learning (
 ### 📄 [Mi CV](cv.md)  
 Experiencia, formación y habilidades.  
 
+---
 
 ## 🚀 Habilidades Clave  
 ✔ **Machine Learning** → Modelado predictivo, regresión, clasificación.  
